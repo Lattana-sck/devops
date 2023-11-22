@@ -27,4 +27,4 @@ jobs:
 
     - name: Start API
       run: |
-        npm run dev
+        npm run start
